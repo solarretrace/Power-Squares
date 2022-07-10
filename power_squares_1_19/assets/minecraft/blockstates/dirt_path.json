@@ -1,0 +1,24 @@
+{
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/dirt_path"
+      },
+      {
+        "model": "minecraft:block/dirt_path",
+        "y": 90,
+        "uvlock": true
+      },
+      {
+        "model": "minecraft:block/dirt_path",
+        "y": 180,
+        "uvlock": true
+      },
+      {
+        "model": "minecraft:block/dirt_path",
+        "y": 270,
+        "uvlock": true
+      }
+    ]
+  }
+}
