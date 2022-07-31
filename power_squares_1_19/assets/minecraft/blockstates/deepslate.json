@@ -8,7 +8,7 @@
         "uvlock": true
       },
       {
-        "model": "minecraft:block/deepslate_mirrored",
+        "model": "minecraft:block/deepslate",
         "x": 90,
         "y": 90,
         "uvlock": true
@@ -20,7 +20,7 @@
         "uvlock": true
       },
       {
-        "model": "minecraft:block/deepslate_mirrored",
+        "model": "minecraft:block/deepslate",
         "x": 90,
         "y": 90,
         "uvlock": true
@@ -31,7 +31,7 @@
         "model": "minecraft:block/deepslate"
       },
       {
-        "model": "minecraft:block/deepslate_mirrored"
+        "model": "minecraft:block/deepslate"
       },
       {
         "model": "minecraft:block/deepslate",
@@ -39,7 +39,7 @@
         "uvlock": true
       },
       {
-        "model": "minecraft:block/deepslate_mirrored",
+        "model": "minecraft:block/deepslate",
         "y": 180,
         "uvlock": true
       }
@@ -51,7 +51,7 @@
         "uvlock": true
       },
       {
-        "model": "minecraft:block/deepslate_mirrored",
+        "model": "minecraft:block/deepslate",
         "x": 90,
         "uvlock": true
       },
@@ -62,7 +62,7 @@
         "uvlock": true
       },
       {
-        "model": "minecraft:block/deepslate_mirrored",
+        "model": "minecraft:block/deepslate",
         "x": 90,
         "y": 180,
         "uvlock": true
